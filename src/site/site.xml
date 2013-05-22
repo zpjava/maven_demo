@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="account web" xmlns="http://maven.apache.org/DECORATION/1.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd">
+	
+	<bannerLeft>
+		<name>Account</name>
+		<src>http://maven.apache.org/images/apache-maven-project.png</src>
+		<href>http://maven.apache.org</href>
+	</bannerLeft><bannerRight><name>java</name><src>images/java.jpeg</src><href>http://www.java.com</href></bannerRight>
+	<body>
+		<menu ref="reports"></menu>
+	</body>
+	<skin><groupId>com.googlecode.fluido-skin</groupId><artifactId>fluido-skin</artifactId><version>1.3</version></skin>
+</project>
